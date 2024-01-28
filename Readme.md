@@ -32,3 +32,5 @@ Following 5 models were applied on the sampled dataset:
 On execution of the code, following results were obtained:
 The cells of the table represent accuracy of the applied model using the respective sampling technique.
 
+![](https://github.com/maheshmani13/Sampling/blob/main/Results.png)
+
